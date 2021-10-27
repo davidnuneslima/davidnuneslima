@@ -1,5 +1,12 @@
-### Olá, eu sou o David Nunes 💻🎮
+### Olá, sou o David Nunes. 💻 🎶 🎮
 
+Pai, apaixonado pela minha família 👨‍👩‍👦 🐶
+
+Gosto de esportes, viajar, ler, música, filmes, seriados, game.
+
+Entusiasta da tecnologia com mindset de crescimento, sempre em busca de novos conhecimentos.
+
+Formado em Gestão em Tecnologia da Informação, analista de Infraestrutura On Premise em transição de carreira para Cloud/Devops.
 
 <div align="center">
   <a href="https://github.com/davidnuneslima">
