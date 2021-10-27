@@ -1,6 +1,5 @@
-### Olá, eu sou o David Nunes 💻
+### Olá, eu sou o David Nunes 💻🎮
 
-Entusiasta da tecnologia, analista de infraestrutura em ambiente On Premise em transição para Cloud / Devops.
 
 <div align="center">
   <a href="https://github.com/davidnuneslima">
