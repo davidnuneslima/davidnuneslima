@@ -1,7 +1,6 @@
-### Opa, sou o David Nunes
+### Olá, sou o David Nunes.
 
-- 💻 Analista de Infraestrutura
-- ☁️ Estudando Cloud e Devops
+Entusiasta da tecnologia, analista de infraestrutura em ambiente On Premise em transição para Cloud / Devops.
 
 <div align="center">
   <a href="https://github.com/davidnuneslima">
