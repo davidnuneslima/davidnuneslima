@@ -6,7 +6,7 @@ Gosto de esportes, viajar, ler, música, filmes, seriados, game.
 
 Entusiasta da tecnologia com mindset de crescimento, sempre em busca de novos conhecimentos.
 
-Formado em Gestão em Tecnologia da Informação, analista de Infraestrutura On Premise em transição de carreira para Cloud/Devops.
+Formado em Gestão em Tecnologia da Informação, Analista de Infraestrutura Cloud.
 
 <div align="center">
   <a href="https://github.com/davidnuneslima">
