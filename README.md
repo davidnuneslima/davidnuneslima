@@ -8,4 +8,6 @@
 🔗 [**[Repositório Importante 1](https://github.com/davidnuneslima/observability-monitoring)**](#)  
 🔗 [**[Repositório Importante 2**]](https://github.com/davidnuneslima/go-project)(#)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidnuneslima&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidnuneslima&show_icons=true&theme=dark" />
+</p>
