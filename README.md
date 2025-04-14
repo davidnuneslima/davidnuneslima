@@ -1,7 +1,7 @@
-# 👋 Hey! Sou David Nunes 
-**SRE** | Criador de conteúdo Gamer com meu filho no canal Davi Gregory e o Paizão.
+# 👋 Hey! Sou David Nunes
 
-SRE com experiência em Infraestrutura, Cloud e Observabilidade, atuando com monitoramento, alertas e otimização de sistemas. Tenho me aprofundado em Observabilidade e recentemente iniciei estudos em OpenTelemetry. Também possuo experiência com Kubernetes, focando na orquestração e monitoramento de aplicações distribuídas. Fora do trabalho, compartilho com meu filho a criação de conteúdo para YouTube, ensinando planejamento, organização e edição de vídeo—habilidades valiosas tanto para tecnologia quanto para a vida. 🚀
+SRE com forte background em Infraestrutura, Cloud e Observabilidade — área onde mais me aprofundei nos últimos anos. Tenho trabalhado com monitoramento, alertas e otimização de sistemas, explorando tecnologias como Kubernetes e, mais recentemente, OpenTelemetry.
+Sou movido por aprendizado contínuo e estou sempre buscando evoluir como especialista. Fora do trabalho, compartilho uma jornada criativa com meu filho de 7 anos, ajudando-o a construir um canal no YouTube. Nesse processo, ensinamos e aprendemos juntos sobre planejamento, roteiro e ferramentas digitais — uma experiência rica em soft skills que valem tanto para a vida quanto para a tecnologia.
 
 
 
