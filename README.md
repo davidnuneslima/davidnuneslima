@@ -1,6 +1,9 @@
-# 👋 Hey! Sou David Nunes
+# 👋 Hey! Sou David Nunes – Engenheiro de Confiabilidade de Sites (SRE)
 
-Engenheiro de Confiabilidade de Sites (SRE) com background sólido em infraestrutura e 2 anos de experiência na função, atuando com práticas e ferramentas da cultura DevOps — incluindo Linux, Git, GitHub Actions, Azure DevOps, Python, Bash, Shell, AWS, GCP, Azure, Opsgenie, Alertmanager, Prometheus, Splunk, Zabbix, Datadog, OpenTelemetry, entre outras. Utilização frequente de ferramentas Atlassian, como Jira para gestão de demandas e Confluence para documentação técnica.
-
+🔹 2 anos de experiência em SRE e background sólido em infraestrutura  
+🔹 Atuação com práticas e ferramentas DevOps: Linux, Git, GitHub Actions, Azure DevOps, Bash, Python, Shell  
+🔹 Experiência em observabilidade e alertas: Opsgenie, Prometheus, Splunk, Zabbix, Datadog, OpenTelemetry  
+🔹 Cloud: AWS, GCP, Azure  
+🔹 Ferramentas Atlassian: Jira (gestão de demandas) e Confluence (documentação técnica)  
 
 
