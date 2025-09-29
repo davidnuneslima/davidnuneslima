@@ -1,4 +1,4 @@
-# 👋 Hey! Sou David Nunes – Engenheiro de Confiabilidade de Sites (SRE)
+# 👋 Hey! Sou David Nunes – SRE
 
 🔹 2 anos de experiência em SRE e background sólido em infraestrutura  
 🔹 Atuação com práticas e ferramentas DevOps: Linux, Git, GitHub Actions, Azure DevOps, Bash, Python, Shell  
