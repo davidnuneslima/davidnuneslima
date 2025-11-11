@@ -1,29 +1,24 @@
-👋 Hey! Eu sou o David Nunes — SRE (Site Reliability Engineer)
+# 👋 Hey, eu sou o David Nunes
 
- Profissional com mais de 2 anos de experiência em SRE, com background sólido em infraestrutura e paixão por automação, observabilidade e confiabilidade de sistemas.
+💻 **Site Reliability Engineer (SRE)** com foco em **observabilidade, automação e confiabilidade de sistemas**.  
+🎯 Busco eficiência, redução de toil e melhoria contínua através de boas práticas DevOps e Cloud.  
 
-Sobre mim:
-🚀 Atuo com práticas e ferramentas DevOps, sempre buscando aumentar a eficiência operacional e reduzir incidentes.
-🧩 Tenho foco em melhoria contínua, redução de toil e monitoramento proativo.
-🌍 Interessado em Cloud, Observabilidade, IaC e boas práticas de Engenharia de Confiabilidade.
+---
 
-🛠️ Tech Stack
+### ⚙️ Stack & Ferramentas
+`Linux` • `GitHub Actions` • `Azure DevOps` • `Terraform` • `Helm` • `Kubernetes`  
+`Python` • `Bash` • `Opsgenie` • `PagerDuty` • `Prometheus` • `Splunk` • `Datadog`  
+`AWS` • `GCP` • `Azure`
 
-Infraestrutura e DevOps:
-Linux • Git • GitHub Actions • Azure DevOps • Bash • Python • Shell
-Observabilidade e Alertas:
-Opsgenie • PagerDuty • Prometheus • Splunk • Zabbix • Datadog • New Relic
-Cloud Providers:
-AWS • GCP • Azure
+---
 
-Ferramentas Atlassian:
-Jira (gestão de demandas) • Confluence (documentação técnica)
+### 🚀 Agora
+🔹 Aprofundando em **Kubernetes**, **Helm** e **Terraform**  
+🔹 Construindo laboratórios de observabilidade  
+🔹 Estudando para **AWS Solutions Architect – Associate**
 
-📈 Atualmente
+---
 
-🔭 Aprimorando meus conhecimentos em Kubernetes, Helm e Terraform
-🧑‍💻 Contribuindo em projetos open source e laboratórios de observabilidade
-📚 Estudando para certificações AWS Solutions Architect – Associate
-
-
-
+### 🌐 Conecte-se
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidnuneslima)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/davidnuneslima)
